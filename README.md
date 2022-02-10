@@ -12,4 +12,4 @@ Start ttt.exe (for Windows), enter a number from 1 to 9 and the game will automa
 ### Windows
 Run ttt.exe
 ### Android
-Download spermux
+Download and install [spermux](https://play.google.com/store/apps/details?id=com.termux&hl=ru&gl=US)
