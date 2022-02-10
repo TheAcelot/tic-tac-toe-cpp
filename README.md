@@ -11,10 +11,9 @@ Start ttt.exe (for Windows), enter a number from 1 to 9 and the game will automa
  -------------
 # Run
 ### Windows
-Download and run ttt.exe
-Enjoy!
+Download and run ttt.exe, enjoy!
 ### Android (ONLY ROOT)
-Download and install [spermux](https://play.google.com/store/apps/details?id=com.termux&hl=ru&gl=US)
+Download and install [spermux](https://play.google.com/store/apps/details?id=com.termux&hl=ru&gl=US)\n
 Download file with name android
 In termux enter cd path to the folder with your file
 ./ttt
